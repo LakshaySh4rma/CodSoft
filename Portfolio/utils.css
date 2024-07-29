@@ -1,0 +1,32 @@
+.purple{
+    color: rgb(154, 95, 209);
+}
+
+#element{
+    color: rgb(154, 95, 209);
+}
+
+.text-gray{
+    color: grey;
+}
+
+.image-top{
+    width: 35px;
+    position: relative;
+    top: -38px;
+    left: -15px;
+}
+
+.vertical-title{
+    position: relative;
+    top: 65px;
+    width: 156px;
+}
+
+.vertical-desc{
+    position: relative;
+    top: 78px;
+    color: grey;
+    width: 156px;
+    font-size: 15px;
+}
